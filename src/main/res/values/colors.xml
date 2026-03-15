@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0A0A0F</color>
+    <color name="card_bg">#111118</color>
+    <color name="card_bg2">#1A1A24</color>
+    <color name="divider">#2A2A38</color>
+    <color name="accent_green">#00E5A0</color>
+    <color name="btn_start">#00E5A0</color>
+    <color name="btn_stop">#FF6B35</color>
+    <color name="text_primary">#E8E8F0</color>
+    <color name="text_secondary">#9090A8</color>
+    <color name="text_hint">#6B6B80</color>
+</resources>
